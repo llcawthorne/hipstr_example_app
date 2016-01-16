@@ -1,8 +1,7 @@
 # hipstr
 
 This silly app is the running example from "Clojure Web Develolpment
-Essentials."  It's by the book through Chapter 8, so far, but I 
-haven't done the chapter 8 exercise yet to add band discography links.
+Essentials."  It's by the book through Chapter 8, including the exercise.
 
 ## Prerequisites
 
